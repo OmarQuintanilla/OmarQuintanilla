@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # ¡Hola! Soy Omar Ernesto Quintanilla Aguilar 👋
 
 > Soy un estudiante de ingeniería informática al cual le gusta aprender.
