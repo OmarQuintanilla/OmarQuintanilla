@@ -35,6 +35,6 @@ Aquí están algunas de las herramientas y tecnologías con las que trabajo:
 * LaTeX
 
 ## 📫 Encuéntrame en
-* **LinkedIn:** [https://www.linkedin.com/in/omar-ernesto-quintanilla-aguilar/](https://www.linkedin.com/in/omar-ernesto-quintanilla-aguilar-817aa8394)
+* **LinkedIn:** [https://www.linkedin.com/in/omar-ernesto-quintanilla-aguilar/](www.linkedin.com/in/omarquintanilla)
 * **GitHub:** [https://github.com/](https://github.com/OmarQuintanilla)
 * **Email:** 00081523@uca.edu.sv
