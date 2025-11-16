@@ -1,5 +1,5 @@
 ## Hi there 👋
-# ¡Hola! Soy [Escribe tu nombre aquí] 👋
+# ¡Hola! Soy Omar Ernesto Quintanilla Aguilar 👋
 
 > Soy un estudiante de ingeniería informática al cual le gusta aprender.
 
@@ -15,6 +15,9 @@ Aquí están algunas de las herramientas y tecnologías con las que trabajo:
 ### Lenguajes de Programación
 * JavaScript
 * SQL
+* c++
+* Java
+* Python
 
 ### Frameworks y Librerías
 * Node.js
