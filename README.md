@@ -24,17 +24,17 @@ Aquí están algunas de las herramientas y tecnologías con las que trabajo:
 * Express
 
 ### Gestores de Bases de Datos
-* PostgreSQL
+* SQLserver
 * Oracle SQL
 
 ### Control de Versiones
-* Git
 * GitHub
 
 ### Otras Tecnologías
 * LaTeX
+* Microsoft office
 
 ## 📫 Encuéntrame en
-* **LinkedIn:** [https://www.linkedin.com/in/omar-ernesto-quintanilla-aguilar/](www.linkedin.com/in/omarquintanilla)
+* **LinkedIn:** www.linkedin.com/in/omarquintanilla
 * **GitHub:** [https://github.com/](https://github.com/OmarQuintanilla)
-* **Email:** 00081523@uca.edu.sv
+* **Email:** 0omar.quintanilla.0@gmail.com
